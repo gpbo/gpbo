@@ -12,7 +12,6 @@ By opening this repo in Gitpod you will get:
 ## Commands you need to run next
 
 ```
-cd gpbo
 branchout init
 branchout pull
 ```
