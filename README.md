@@ -4,7 +4,7 @@ Gitpod Branchout environment development
 By opening this repo in Gitpod you will get:
 
 * A docker container with some foundational tools
-* A gitpod user (https://gitpod.io)
+* A gitpod user on (https://gitpod.io)
 * Homebrew (https://brew.sh)
 * Branchout (https://github.com/branchout/branchout)
 * A few example repositories that show the power of the two together
