@@ -4,5 +4,3 @@ tasks:
   - command: >
       branchout init &&
       branchout status
-checkoutLocation: "gpbo"
-workspaceLocation: "."
